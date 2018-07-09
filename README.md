@@ -1,3 +1,4 @@
+
 # Investigating Gapminder Indicators
 
 [The Gapminder Foundation](https://www.gapminder.org/) has collected a lot of data about how people live their lives in different countries, tracked over the years, on a number of different indicators. In this project, I'll take a look at four indicators I'm interested in understanding better and perform the Data Analysis Process (DAP) on them to uncover insights.
