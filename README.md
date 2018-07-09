@@ -60,7 +60,7 @@ First, fork this repository.
 
 Next, clone this repository to your desktop to make changes.
 
-`$ git clone {YOUR_REPOSITORY_CLONE_URL}`
+`$ git clone {https://github.com/ccaddel/investigate_gapminder_data.git}`
 
 `$ cd investigate_gapminder_data`
 
